@@ -3,7 +3,7 @@
     {
       "user_id": 6319679398,
       "emoji_id": 5208665577555512622,
-      "text_ru": "**Vestr** — ведущий разработчик **Packit** и основатель **Meta Plugins**.",
+      "text_ru": "**apathy_DLC** — ведущий разработчик **Packit** и основатель **Meta Plugins**.",
       "text_en": "**Vestr** is the official lead developer of **Packit** and founder of **Meta Plugins**."
     },
 {
@@ -13,21 +13,21 @@
       "text_en": "This user distributes MALICIOUS plugins."
     },
     {
-      "user_id": 6351532937,
-      "emoji_id": 5399894714327520642,
+      "user_id": 1270520756,
+      "emoji_id": 5208665577555512622,
       "text_ru": "Данный пользователь является тестером Meta plugins.",
       "text_en": "This user is a tester for Meta plugins."
     },
     {
-      "chat_id": 3682773171,
+      "chat_id": 2837304208,
       "emoji_id": 5208665577555512622,
-      "text_ru": "**Meta Plugins** — официальный чат **Vestr**.",
+      "text_ru": "**Meta Plugins** — официальный чат.",
       "text_en": "**Meta Plugins** is official **Vestr** chat."
     },
     {
       "chat_id": 2519878476,
       "emoji_id": 5208665577555512622,
-      "text_ru": "**Meta Plugins** — официальный канал **Vestr**.",
+      "text_ru": "**Meta Plugins** — официальный канал.",
       "text_en": "**Meta Plugins** is official **Vestr** channel."
     }
   ],
@@ -35,6 +35,19 @@
     {
       "deeplink": "tg://vestr",
       "target": "https://t.me/mr_Vestr?profile"
+    },
+    {
+      "deeplink": "tg://vestr?direct",
+      "target": "https://t.me/mr_Vestr?direct"
+    },
+    {
+      "deeplink": "tg://vestr?channel",
+      "target": "https://t.me/i_am_vestr"
+    },
+    {
+      "deeplink": "tg://vestr?github",
+      "target": "https://github.com/mr-Vestr"
+    },      "target": "https://t.me/mr_Vestr?profile"
     },
     {
       "deeplink": "tg://vestr?direct",
