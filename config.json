@@ -47,23 +47,4 @@
     {
       "deeplink": "tg://vestr?github",
       "target": "https://github.com/mr-Vestr"
-    },      "target": "https://t.me/mr_Vestr?profile"
     },
-    {
-      "deeplink": "tg://vestr?direct",
-      "target": "https://t.me/mr_Vestr?direct"
-    },
-    {
-      "deeplink": "tg://vestr?channel",
-      "target": "https://t.me/i_am_vestr"
-    },
-    {
-      "deeplink": "tg://vestr?github",
-      "target": "https://github.com/mr-Vestr"
-    },
-    {
-      "deeplink": "tg://vestr?support",
-      "target": "gifts_2037728749"
-    }
-  ]
-    }
