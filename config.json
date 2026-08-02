@@ -3,8 +3,8 @@
     {
       "user_id": 6319679398,
       "emoji_id": 5208665577555512622,
-      "text_ru": "**apathy_DLC** — ведущий разработчик **Packit**.",
-      "text_en": "**Vestr** is the official lead developer of **Packit**."
+      "text_ru": "**apathy_DLC** — ведущий разработчик **plugins**.",
+      "text_en": "**apathy_DLC** is the official lead developer of **plugins**."
     },
     {
       "user_id": 6672029034,
@@ -22,13 +22,13 @@
       "chat_id": 2837304208,
       "emoji_id": 5208665577555512622,
       "text_ru": "**Kvadrat | Chat | Infinix Zero 40** — официальный чат.",
-      "text_en": "**Kvadrat | Chat | Infinix Zero 40** is official **Vestr** chat."
+      "text_en": "**Kvadrat | Chat | Infinix Zero 40** is official chat."
     },
     {
       "chat_id": 2519878476,
       "emoji_id": 5208665577555512622,
       "text_ru": "**KvadratTech | Infinix Zero 40** — официальный канал.",
-      "text_en": "**KvadratTech | Infinix Zero 40** is official **Vestr** channel."
+      "text_en": "**KvadratTech | Infinix Zero 40** is official channel."
     }
   ],
   "deeplinks": [
