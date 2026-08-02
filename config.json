@@ -6,7 +6,7 @@
       "text_ru": "**apathy_DLC** — ведущий разработчик **Packit** и основатель **Meta Plugins**.",
       "text_en": "**Vestr** is the official lead developer of **Packit** and founder of **Meta Plugins**."
     },
-{
+    {
       "user_id": 6672029034,
       "emoji_id": 5219805369806629055,
       "text_ru": "Данный пользователь распространяет ВРЕДОНОСНЫЕ плагины.",
@@ -47,4 +47,6 @@
     {
       "deeplink": "tg://vestr?github",
       "target": "https://github.com/mr-Vestr"
-    },
+    }
+  ]
+}
