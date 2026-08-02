@@ -29,6 +29,12 @@
       "emoji_id": 5208665577555512622,
       "text_ru": "**KvadratTech | Infinix Zero 40** — официальный канал.",
       "text_en": "**KvadratTech | Infinix Zero 40** is official channel."
+    },
+    {
+      "chat_id": 4381260089,
+      "emoji_id": 5208665577555512622,
+      "text_ru": "Fonarik Tech 🔦 — официальный канал.",
+      "text_en": "Fonarik Tech 🔦 — official channel."
     }
   ],
   "deeplinks": [
@@ -49,4 +55,4 @@
       "target": "https://github.com/mr-Vestr"
     }
   ]
-}
+    }
