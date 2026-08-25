@@ -1,0 +1,100 @@
+{
+  "badges": [
+    {
+      "user_id": 6319679398,
+      "emoji_id": 5429588718052740528,
+      "text_ru": "**apathy_DLC** — ведущий разработчик @kvadraatbot",
+      "text_en": "**apathy_DLC** is the official lead developer of @kvadraatbot."
+    },
+    {
+      "user_id": 6672029034,
+      "emoji_id": 5219805369806629055,
+      "text_ru": "Данный пользователь распространяет ВРЕДОНОСНЫЕ плагины.",
+      "text_en": "This user distributes MALICIOUS plugins."
+    },
+    {
+      "user_id": 1270520756,
+      "emoji_id": 5359407509327085568,
+      "text_ru": "Данный пользователь является основателем @infinix_techtok",
+      "text_en": "This user is a tester for infinix_techtok."
+    },
+    {
+      "chat_id": 2837304208,
+      "emoji_id": 5359407509327085568,
+      "text_ru": "**Kvadrat | Chat | Infinix Zero 40** — официальный чат.",
+      "text_en": "**Kvadrat | Chat | Infinix Zero 40** is official chat."
+    },
+    {
+      "chat_id": 2519878476,
+      "emoji_id": 5359407509327085568,
+      "text_ru": "**KvadratTech | Infinix Zero 40** — официальный канал.",
+      "text_en": "**KvadratTech | Infinix Zero 40** is official channel."
+    },
+    {
+      "chat_id": 4381260089,
+      "emoji_id": 5208665577555512622,
+      "text_ru": "**Fonarik Tech 🔦** — официальный канал.",
+      "text_en": "**Fonarik Tech 🔦** — official channel."
+    },
+    {
+      "chat_id": 3706713529,
+      "emoji_id": 5208665577555512622,
+      "text_ru": "**чат фонариков** - официальный чат.",
+      "text_en": "**Fonarik Tech Chat** - official chat."
+    },
+    {
+      "user_id": 7858814468,
+      "emoji_id": 5359407509327085568,
+      "text_ru": "Данный пользователь является менеджером **Fonarik Tech 🔦**.",
+      "text_en": "This user is a manager of **Fonarik Tech 🔦**"
+    },
+    {
+      "user_id": 7594999874,
+      "emoji_id": 5208665577555512622,
+      "text_ru": "Данный пользователь является основателем канала **Fonarik Tech 🔦**",
+      "text_en": "This user is the founder of **Fonarik Tech 🔦**"
+    },
+    {
+      "user_id": 8540147921,
+      "emoji_id": 5359407509327085568,
+      "text_ru": "KvadratTech | Бот - Официальный ресурс @infinix_techtok",
+      "text_en": "KvadratTech | Бот - Официальный ресурс @infinix_techtok"
+    },
+    {
+      "user_id": 8839065679,
+      "emoji_id": "5219805369806629055",
+      "text_ru": "Данный пользователь распространяет ВРЕДОНОСНЫЕ плагины.",
+      "text_en": "Данный пользователь распространяет ВРЕДОНОСНЫЕ плагины."
+    },
+    {
+      "user_id": 8592510058,
+      "emoji_id": "5219805369806629055",
+      "text_ru": "Данный пользователь распространяет ВРЕДОНОСНЫЕ плагины.",
+      "text_en": "Данный пользователь распространяет ВРЕДОНОСНЫЕ плагины."
+    },
+    {
+      "user_id": 8748334010,
+      "emoji_id": 5359407509327085568,
+      "text_ru": "Данный пользователь является фанатом κɑ૯∂жυ",
+      "text_en": "Данный пользователь является фанатом κɑ૯∂жυ"
+    }
+  ],
+  "deeplinks": [
+    {
+      "deeplink": "tg://vestr",
+      "target": "https://t.me/mr_Vestr?profile"
+    },
+    {
+      "deeplink": "tg://vestr?direct",
+      "target": "https://t.me/mr_Vestr?direct"
+    },
+    {
+      "deeplink": "tg://vestr?channel",
+      "target": "https://t.me/i_am_vestr"
+    },
+    {
+      "deeplink": "tg://vestr?github",
+      "target": "https://github.com/mr-Vestr"
+    }
+  ]
+}
