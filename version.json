@@ -1,7 +1,7 @@
 {
     "version": "2.0",
     "link": "https://github.com/nikinikita599-cloud/Plugins/releases/download/Test/petpet.plugin",
-    "signature": "a/fAqhXGKoJ1XEKgRcs+SpcuUuWhctsjX79VhkaZoQWYvOFwwg3btruQqxpPv02VeeVWs09KE0DD6c69HWhMCw==",
+    "hmac": "c6af644a2546ceb2bc0804c3a02c055c1b93f2a41fd1bcfa85344d59164d6472",
     "changelog_ru": "• оптимизация\n• фикс багов",
     "changelog_en": "• optimization\n• bug fixes",
     "sticker": "masquernya/14"
