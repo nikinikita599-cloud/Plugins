@@ -1,5 +1,7 @@
 {
-  "version": "3.1",
-  "link": "https://github.com/nikinikita599-cloud/plugins/download/test.plugin",
-  "changelog": "Что-то новое"
+    "version": "2.0",
+    "link": "https://github.com/nikinikita599-cloud/plugins/download/test.plugin",
+    "changelog_ru": "• Что-то новое\n• Что-то исправлено",
+    "changelog_en": "• Something new\n• Something fixed",
+    "sticker": "my_pack/1"
 }
