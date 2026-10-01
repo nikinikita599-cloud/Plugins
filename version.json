@@ -1,7 +1,8 @@
 {
     "version": "2.0",
     "link": "https://github.com/nikinikita599-cloud/Plugins/releases/download/Test/petpet.plugin",
+    "sha256": "5ef1921086941ba940756f1f8244308c67bd4d89606c921b049ea40f4f8836ab",
     "changelog_ru": "• оптимизация\n• фикс багов",
-    "changelog_en": "• оптимизация\n• фикс багов",
-    "sticker": "my_pack/1"
+    "changelog_en": "• optimization\n• bug fixes",
+    "sticker": "masquernya/14"
 }
